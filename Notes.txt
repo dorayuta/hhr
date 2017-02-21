@@ -1,0 +1,6 @@
+players DB with player, player_id
+
+Hands DB with
+
+
+http://www.pokertracker.com/guides/PT3/databases/pokertracker-3-database-schema-documentation
